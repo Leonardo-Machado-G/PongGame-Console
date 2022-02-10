@@ -1,0 +1,8 @@
+C:\Users\leosl\source\repos\Pong Game\bin\Release\Pong Game.exe.config
+C:\Users\leosl\source\repos\Pong Game\bin\Release\Pong Game.exe
+C:\Users\leosl\source\repos\Pong Game\bin\Release\Pong Game.pdb
+C:\Users\leosl\source\repos\Pong Game\obj\Release\Pong Game.csproj.AssemblyReference.cache
+C:\Users\leosl\source\repos\Pong Game\obj\Release\Pong Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\leosl\source\repos\Pong Game\obj\Release\Pong Game.csproj.CoreCompileInputs.cache
+C:\Users\leosl\source\repos\Pong Game\obj\Release\Pong Game.exe
+C:\Users\leosl\source\repos\Pong Game\obj\Release\Pong Game.pdb
